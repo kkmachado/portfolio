@@ -1,0 +1,1 @@
+var navbar=document.querySelector("#nav");navbar&&(window.onscroll=function(){this.scrollY>300?navbar.style.top="0":navbar.style.top="-80px"});

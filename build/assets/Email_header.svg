@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>Email_header</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Site" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Home-alt-v2" transform="translate(-1270.000000, -100.000000)" fill="#FFFFFF">
+            <g id="Header">
+                <g id="ícones" transform="translate(1270.000000, 100.000000)">
+                    <g id="Email">
+                        <path d="M20,0 C8.95430446,0 0,8.95430446 0,20 C0,31.0456955 8.95430446,40 20,40 C31.0456955,40 40,31.0456955 40,20 C40,8.95430446 31.0456955,0 20,0 Z" opacity="0.302845982"></path>
+                        <path d="M30.8356445,26.2888941 L22.9462795,20.4192413 L30.8356445,12.776237 L30.8356445,26.2888941 Z M9.16435547,26.2888941 L9.16435547,12.776237 L17.0535512,20.4184195 L9.16435547,26.2888941 Z M18.1164179,21.4490354 L20,23.2733425 L21.8833705,21.4490354 L30.8356445,27.223763 L9.16435547,27.223763 L18.1164179,21.4490354 Z M9.81449414,12.776237 L30.1855059,12.776237 L20,20.9554612 L9.81449414,12.776237 Z" id="Combined-Shape" opacity="0.403515625"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
